@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HomeWorkMap</string>
+    <string name="hint_enter_country">Введите страну</string>
+    <string name="label_capital">Столица</string>
+    <string name="hint_enter_capital">Введите столицу</string>
+    <string name="button_add">Добавить</string>
+</resources>
